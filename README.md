@@ -1,7 +1,7 @@
 # Marine DNA GC Content Analysis
 ### This project analyses the GC content in DNA sequences for different marine species. The data is taken from a CSV file using pandas and results are plotted onto a bar chart using matplotlib.pyplot
 ## The Dataset
-The dataset used for this project can be found in the [marine_sequences.csv](marine_sequences.csv) file, each row represents a species and its corresponding DNA sequence.
+The dataset used for this project can be found in the [marine_sequences.csv](data/marine_sequences.csv) file, each row represents a species and its corresponding DNA sequence.
 
 The data used in this project are partial DNA sequences from the COI gene.
 ## GC Content and Potential Uses of this Analysis
